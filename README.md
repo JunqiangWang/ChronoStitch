@@ -1,4 +1,4 @@
-# ChronoStitch (version 0.0.1)
+# ChronoStitch (version 0.1.0)
 
 
 version 0.1.0
