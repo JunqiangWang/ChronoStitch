@@ -4,7 +4,7 @@
 ### New Features
 
 -- ChronoStitch supports trajectory inference using a predefined tree graph structure.   
--- A novel algorithm for tree graph inference is introduced.
+-- A novel algorithm for accurate tree graph inference is introduced.
 
 
 
