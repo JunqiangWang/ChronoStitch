@@ -7,7 +7,7 @@ ChronoStitch is a computational integration method for inferring trajectories fr
 
 ### Key Features
 Progression preserving  
-Separation of chronological difference from batch effects  
+Separation of chronological difference from batch effect
 Scalable & efficient for large datasets  
 
 
