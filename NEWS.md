@@ -3,7 +3,7 @@
 
 ### New Features
 
-June 20, 2025 -- ChronoStitch supports trajectory inference using predefined tree graph structure. 
+June 20, 2025 -- ChronoStitch supports trajectory inference using a predefined tree graph structure. 
 
 
 
