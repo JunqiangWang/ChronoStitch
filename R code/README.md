@@ -5,6 +5,8 @@ version 0.1.0
 
 ### ChronoStitch
 
+The first version will be release around October.
+
 Please check the update later.
 
 
